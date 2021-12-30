@@ -7,4 +7,4 @@ Cool loking **Radio Buttons** in CSS
 <br> 
 
 Click to view the live preview
-[Radio Buttons](https://gaurava722.github.io/RadioButton/ "Radio Buttons In CSS")
+[Radio Buttons](https://gaurava722.github.io/RadioButton/ "Radio Buttons In CSS" about="blank")
